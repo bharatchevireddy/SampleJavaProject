@@ -9,6 +9,8 @@ public class HelloWorld {
     LocalTime currentTime = LocalTime.now();
     System.out.println("The current local time is: " + currentTime);
     //Greeter greeter = new Greeter();
+    System.out.println("*****************************");
     System.out.println("Hello Java World");
+    System.out.println("*****************************");
   }
 }
